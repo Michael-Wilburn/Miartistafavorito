@@ -1,0 +1,28 @@
+﻿body {
+    font-family:monospace;
+    background-image: url(psico.jpg);
+    background-attachment: fixed;
+    
+}
+img,iframe {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    max-height: 430px;
+}
+p,ul { 
+    font-size: large;
+}
+a{ 
+    font-size: large;
+    color: yellow;
+}
+h1 {
+    font-size:xx-large;
+}
+h3{
+    font-size:x-large;
+}
+header,footer,#fotos {
+    text-align: center;
+}
