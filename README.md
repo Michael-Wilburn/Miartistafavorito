@@ -3,4 +3,4 @@ The first website I built!
 
 link to the web:
 
- https://moneyripper.github.io/Miartistafavorito/
+ https://Michael-Wilburn.github.io/Miartistafavorito/
